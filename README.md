@@ -4,5 +4,12 @@
 ## Members
 Nicolas Guiblin, Fanny Mettens, Ambre Journot
 
-### Lien vers le code du jeu
-le code du jeu (contien aussi les assets) : https://github.com/Sylcantor/RainCheNau
+## Liens
+
+lien vers le jeu :
+
+lien vers le code du jeu (contien aussi les assets) : https://github.com/Sylcantor/RainCheNau
+
+lien vers la documentation :
+
+lien vers la video de demo :
