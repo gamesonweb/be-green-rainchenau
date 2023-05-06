@@ -5,4 +5,4 @@
 Nicolas Guiblin, Fanny Mettens, Ambre Journot
 
 ### Lien vers le code du jeu
-le code du jeu (ne dépasse pas 100Mo mais n'est pas fini, dans le doute un lien à été fait) : https://github.com/Sylcantor/RainCheNau
+le code du jeu (contien aussi les assets) : https://github.com/Sylcantor/RainCheNau
