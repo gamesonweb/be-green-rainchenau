@@ -6,7 +6,7 @@ Nicolas Guiblin, Fanny Mettens, Ambre Journot
 
 ## Liens
 
-lien vers le jeu :
+lien vers le jeu : https://sylcantor.github.io/RainCheNau
 
 lien vers le code du jeu (contien aussi les assets) : https://github.com/Sylcantor/RainCheNau
 
